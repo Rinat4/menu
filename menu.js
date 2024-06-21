@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<button id="toggleMenuBtn">Показать/скрыть меню</button>
+<button id="toggleMenuBtn">Показать/скрыть меню</button>// этот пункт не нужен
 <ul id="menu">
     <li>Главная</li>
     <li>Новости</li>
